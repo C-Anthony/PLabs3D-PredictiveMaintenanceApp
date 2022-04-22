@@ -1,0 +1,5 @@
+Pieza depegada
+Salto de capa
+Caida de temperatura
+Fallo de retraccion
+Falta de material
